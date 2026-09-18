@@ -21,10 +21,10 @@ QuickFilter is a CLI based tool that will allow users to quickly apply computer 
 
 1. Clone the repository.
 2. Install Python 3.
-3. Install the OpenCV library: 
+3. Install the required dependencies: 
 
 ```bash
-pip install opencv-python
+pip install -r requirements.txt
 ```
 
 4. Place an image in the project folder.
